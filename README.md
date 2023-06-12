@@ -17,4 +17,4 @@ python analizator2.py
 ```
 auto-py-to-exe.exe
 ```
-Выбираем файл analizator2.py, onefileостальные настрой
+Выбираем файл analizator2.py, onefile, остальные настройки по умолчанию. Полученный файл перемещаем в корень проекта
